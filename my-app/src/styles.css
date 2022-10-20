@@ -1,0 +1,20 @@
+body{
+  background-color: #03203C;
+  align-items: center;
+}
+
+div{
+  color: white;
+  text-align: center;
+}
+
+.button{
+  padding: 7px 17px;
+  margin-top: 20px;
+  background-color: #66AD47;
+  color: white;
+  border: none;
+  box-shadow: 2px 4px 5px rgba(255, 255, 255, 0.15);
+  cursor: pointer;
+  margin: 8px;
+} 
